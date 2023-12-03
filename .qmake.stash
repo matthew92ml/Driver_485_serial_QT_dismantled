@@ -1,0 +1,13 @@
+QMAKE_DEFAULT_INCDIRS = \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/usr/include/c++/6.3.0 \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/usr/include/c++/6.3.0/arm-fslc-linux-gnueabi \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/usr/include/c++/6.3.0/backward \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/x86_64-fslcsdk-linux/usr/lib/arm-fslc-linux-gnueabi/gcc/arm-fslc-linux-gnueabi/6.3.0/include \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/usr/lib/gcc/arm-fslc-linux-gnueabi/6.3.0/include \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/x86_64-fslcsdk-linux/usr/lib/arm-fslc-linux-gnueabi/gcc/arm-fslc-linux-gnueabi/6.3.0/include-fixed \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/usr/include
+QMAKE_DEFAULT_LIBDIRS = \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/x86_64-fslcsdk-linux/usr/lib/arm-fslc-linux-gnueabi/gcc/arm-fslc-linux-gnueabi/6.3.0 \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/lib \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/usr/lib/arm-fslc-linux-gnueabi/6.3.0 \
+    /opt/fslc-framebuffer/2.3/icore/sysroots/armv7at2hf-neon-fslc-linux-gnueabi/usr/lib
